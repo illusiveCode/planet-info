@@ -1,0 +1,22 @@
+.navbar {
+  background: url('/public/images/nebula.jpg');
+}
+
+.jumbotron {
+  height: 100vh;
+}
+
+
+img {
+  /* margin: auto; */
+  width: 50%;
+  padding: 10px;
+}
+
+/* @media only screen and (max-width: 600px) {
+  .home {
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+  }
+} */
